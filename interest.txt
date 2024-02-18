@@ -1,0 +1,2 @@
+Question: Why are you interested in taking CMSC320? 
+Answer: I want to learn how to makse sense of data.
